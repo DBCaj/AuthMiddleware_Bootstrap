@@ -11,7 +11,11 @@ resources/views/includes/loginForm.blade.php
 
 resources/views/includes/accountDetails.blade.php
 
-resources/views/includes/switchAccount.blade.php
+resources/views/includes/nav.blade.php
+
+resources/views/includes/bootstrap/bootstrap-styles.blade.php
+
+resources/views/includes/bootstrap-scripts.blade.php
 
 app/Http/Controllers/AuthController.php
 
